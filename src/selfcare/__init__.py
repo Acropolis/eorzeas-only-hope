@@ -25,9 +25,9 @@ REGULAR_THINGS = [
 
 DAILY_THINGS = [
     "reaching out to someone",
-    "tend to a living/growing thing",
-    "take a shower or bath",
-    "clean one space or surface",
+    "tending to a living/growing thing",
+    "taking a shower or bath",
+    "cleaning one space or surface",
 ]
 
 FORMATS = [
